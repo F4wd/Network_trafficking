@@ -1,0 +1,423 @@
+=================================================
+Network Traffic Log
+Started: 2025-12-28 15:05:19
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+
+--- Query: Top 4 Largest Packets ---
+Results: 4 packets
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-28 15:05:19]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-28 15:05:19]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-28 15:05:19]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-28 15:05:19]
+--- End Query ---
+
+
+--- Query: Source IP: 85.147.117.223 ---
+Results: 1 packets
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-28 15:05:19]
+--- End Query ---
+
+=================================================
+Log closed: 2025-12-28 15:06:58
+=================================================
+=================================================
+Network Traffic Log
+Started: 2025-12-28 15:13:44
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+=================================================
+Network Traffic Log
+Started: 2025-12-29 15:27:22
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+
+--- Query: Top 7 Largest Packets ---
+Results: 7 packets
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-29 15:27:22]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-29 15:27:22]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-29 15:27:22]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-29 15:27:22]
+  Packet[ID:20, 94.253.91.230->227.244.202.53, Size:57375B, Proto:HTTP, Time:2025-12-29 15:27:22]
+  Packet[ID:17, 118.244.52.35->195.20.92.109, Size:55888B, Proto:HTTP, Time:2025-12-29 15:27:22]
+  Packet[ID:25, 251.16.87.251->58.127.197.160, Size:55162B, Proto:HTTPS, Time:2025-12-29 15:27:22]
+--- End Query ---
+
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+=================================================
+Network Traffic Log
+Started: 2025-12-29 15:28:44
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+=================================================
+Network Traffic Log
+Started: 2025-12-29 15:29:10
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+
+--- Query: Top 10 Largest Packets ---
+Results: 10 packets
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-29 15:29:10]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-29 15:29:10]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-29 15:29:10]
+  Packet[ID:20, 94.253.91.230->227.244.202.53, Size:57375B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:17, 118.244.52.35->195.20.92.109, Size:55888B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:25, 251.16.87.251->58.127.197.160, Size:55162B, Proto:HTTPS, Time:2025-12-29 15:29:10]
+  Packet[ID:19, 236.5.234.172->253.114.196.123, Size:55130B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:8, 25.84.126.79->1.136.37.218, Size:54200B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:14, 116.84.35.51->128.71.81.115, Size:52312B, Proto:HTTP, Time:2025-12-29 15:29:10]
+--- End Query ---
+
+
+--- Query: Top 17 Largest Packets ---
+Results: 17 packets
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-29 15:29:10]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-29 15:29:10]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-29 15:29:10]
+  Packet[ID:20, 94.253.91.230->227.244.202.53, Size:57375B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:17, 118.244.52.35->195.20.92.109, Size:55888B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:25, 251.16.87.251->58.127.197.160, Size:55162B, Proto:HTTPS, Time:2025-12-29 15:29:10]
+  Packet[ID:19, 236.5.234.172->253.114.196.123, Size:55130B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:8, 25.84.126.79->1.136.37.218, Size:54200B, Proto:DNS, Time:2025-12-29 15:29:10]
+  Packet[ID:14, 116.84.35.51->128.71.81.115, Size:52312B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:10, 214.37.115.105->46.102.249.149, Size:49271B, Proto:SSH, Time:2025-12-29 15:29:10]
+  Packet[ID:12, 113.205.196.30->33.215.32.158, Size:48467B, Proto:FTP, Time:2025-12-29 15:29:10]
+  Packet[ID:1, 249.245.132.223->152.2.234.89, Size:47613B, Proto:HTTPS, Time:2025-12-29 15:29:10]
+  Packet[ID:9, 199.82.118.147->193.178.160.144, Size:45393B, Proto:HTTP, Time:2025-12-29 15:29:10]
+  Packet[ID:2, 85.147.19.66->202.179.135.81, Size:43377B, Proto:UDP, Time:2025-12-29 15:29:10]
+  Packet[ID:32, 37.48.38.79->196.190.82.8, Size:42724B, Proto:FTP, Time:2025-12-29 15:29:10]
+  Packet[ID:45, 5.214.7.6->245.217.15.180, Size:41715B, Proto:SSH, Time:2025-12-29 15:29:10]
+--- End Query ---
+
+=================================================
+Network Traffic Log
+Started: 2025-12-29 15:37:11
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+
+--- Query: Protocol: SSH ---
+Results: 5 packets
+  Packet[ID:5, 180.1.187.227->74.143.2.217, Size:37424B, Proto:SSH, Time:2025-12-29 15:37:11]
+  Packet[ID:10, 214.37.115.105->46.102.249.149, Size:49271B, Proto:SSH, Time:2025-12-29 15:37:11]
+  Packet[ID:29, 63.142.49.130->174.190.248.245, Size:22670B, Proto:SSH, Time:2025-12-29 15:37:11]
+  Packet[ID:41, 78.118.18.196->78.84.119.219, Size:18676B, Proto:SSH, Time:2025-12-29 15:37:11]
+  Packet[ID:45, 5.214.7.6->245.217.15.180, Size:41715B, Proto:SSH, Time:2025-12-29 15:37:11]
+--- End Query ---
+
+
+--- Query: Top 6 Largest Packets ---
+Results: 6 packets
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-29 15:37:11]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-29 15:37:11]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-29 15:37:11]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-29 15:37:11]
+  Packet[ID:20, 94.253.91.230->227.244.202.53, Size:57375B, Proto:HTTP, Time:2025-12-29 15:37:11]
+  Packet[ID:17, 118.244.52.35->195.20.92.109, Size:55888B, Proto:HTTP, Time:2025-12-29 15:37:11]
+--- End Query ---
+
+=================================================
+Network Traffic Log
+Started: 2025-12-29 15:40:15
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 50
+Total Bytes: 1633378 bytes
+Average Packet Size: 32667.56 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3510 bytes
+
+Protocol Distribution:
+  TCP     : 4      (8.0%)
+  UDP     : 5      (10.0%)
+  ICMP    : 6      (12.0%)
+  HTTP    : 10     (20.0%)
+  HTTPS   : 6      (12.0%)
+  DNS     : 8      (16.0%)
+  FTP     : 6      (12.0%)
+  SSH     : 5      (10.0%)
+==================================
+==================
+
+
+--- Query: Top 100 Largest Packets ---
+Results: 100 packets
+  Packet[ID:93, 130.252.252.237->34.9.187.221, Size:65369B, Proto:FTP, Time:2025-12-29 15:40:36]
+  Packet[ID:44, 151.164.232.28->176.46.77.93, Size:64980B, Proto:ICMP, Time:2025-12-29 15:40:15]
+  Packet[ID:92, 219.239.235.150->66.2.3.94, Size:64876B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:33, 10.98.245.65->124.44.93.86, Size:64840B, Proto:TCP, Time:2025-12-29 15:40:15]
+  Packet[ID:103, 87.210.223.228->62.29.113.233, Size:64675B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:135, 150.184.83.77->118.33.152.59, Size:64451B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:80, 117.156.146.142->223.30.123.88, Size:64316B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:132, 214.199.124.112->178.76.20.61, Size:64087B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:73, 34.245.226.240->187.73.35.39, Size:63387B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:123, 141.174.30.47->157.141.20.156, Size:62222B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:48, 85.147.117.223->174.182.94.149, Size:62121B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:124, 45.184.93.186->216.3.37.230, Size:62084B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:62, 56.17.214.233->255.1.3.170, Size:62040B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:134, 161.101.133.94->108.116.168.2, Size:58526B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:43, 205.2.207.136->72.88.138.19, Size:57962B, Proto:TCP, Time:2025-12-29 15:40:15]
+  Packet[ID:20, 94.253.91.230->227.244.202.53, Size:57375B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:76, 166.235.38.242->123.220.46.1, Size:57156B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:125, 55.223.119.180->74.251.197.245, Size:56682B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:97, 178.176.127.211->140.1.11.181, Size:55977B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:17, 118.244.52.35->195.20.92.109, Size:55888B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:142, 64.201.209.220->18.96.119.188, Size:55771B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:81, 244.11.158.68->129.69.73.129, Size:55445B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:25, 251.16.87.251->58.127.197.160, Size:55162B, Proto:HTTPS, Time:2025-12-29 15:40:15]
+  Packet[ID:19, 236.5.234.172->253.114.196.123, Size:55130B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:108, 50.147.246.131->92.13.29.194, Size:54754B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:58, 131.212.233.169->253.255.108.135, Size:54245B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:8, 25.84.126.79->1.136.37.218, Size:54200B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:106, 44.153.248.60->224.211.190.221, Size:53115B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:72, 47.76.237.174->63.234.225.144, Size:52429B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:14, 116.84.35.51->128.71.81.115, Size:52312B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:150, 124.163.181.171->1.214.37.116, Size:51489B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:114, 247.45.152.143->198.120.251.101, Size:49429B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:79, 252.82.22.12->209.82.63.222, Size:49279B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:10, 214.37.115.105->46.102.249.149, Size:49271B, Proto:SSH, Time:2025-12-29 15:40:15]
+  Packet[ID:77, 142.54.45.208->77.161.229.158, Size:49177B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:83, 79.232.144.105->194.6.198.141, Size:48713B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:12, 113.205.196.30->33.215.32.158, Size:48467B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:87, 74.113.154.143->51.229.64.161, Size:47895B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:115, 253.130.162.235->170.95.91.55, Size:47830B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:1, 249.245.132.223->152.2.234.89, Size:47613B, Proto:HTTPS, Time:2025-12-29 15:40:15]
+  Packet[ID:96, 181.249.21.59->172.253.173.58, Size:47494B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:139, 116.142.42.156->232.35.123.30, Size:46372B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:104, 147.228.4.21->66.251.219.106, Size:46112B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:61, 28.59.22.65->142.85.3.183, Size:45899B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:84, 99.44.135.6->152.97.60.98, Size:45484B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:9, 199.82.118.147->193.178.160.144, Size:45393B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:119, 35.161.91.224->245.205.81.153, Size:43564B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:133, 166.38.40.5->226.83.210.170, Size:43560B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:2, 85.147.19.66->202.179.135.81, Size:43377B, Proto:UDP, Time:2025-12-29 15:40:15]
+  Packet[ID:137, 77.132.106.198->99.26.81.159, Size:43269B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:54, 149.118.139.170->158.69.62.129, Size:43169B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:112, 48.157.182.98->207.112.181.216, Size:43100B, Proto:FTP, Time:2025-12-29 15:40:36]
+  Packet[ID:75, 242.155.8.49->101.182.126.3, Size:43091B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:32, 37.48.38.79->196.190.82.8, Size:42724B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:45, 5.214.7.6->245.217.15.180, Size:41715B, Proto:SSH, Time:2025-12-29 15:40:15]
+  Packet[ID:100, 97.69.198.95->161.54.179.194, Size:40202B, Proto:FTP, Time:2025-12-29 15:40:36]
+  Packet[ID:95, 109.78.85.174->73.118.17.32, Size:39543B, Proto:HTTPS, Time:2025-12-29 15:40:36]
+  Packet[ID:16, 132.142.195.129->90.15.46.34, Size:39198B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:3, 199.167.6.247->237.44.8.61, Size:38282B, Proto:ICMP, Time:2025-12-29 15:40:15]
+  Packet[ID:109, 71.127.199.245->22.87.150.26, Size:38059B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:11, 139.39.126.25->202.40.102.91, Size:37787B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:136, 228.195.152.46->130.42.220.202, Size:37517B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:5, 180.1.187.227->74.143.2.217, Size:37424B, Proto:SSH, Time:2025-12-29 15:40:15]
+  Packet[ID:15, 244.252.89.87->186.119.225.52, Size:35855B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:23, 77.107.40.50->54.158.22.95, Size:35779B, Proto:TCP, Time:2025-12-29 15:40:15]
+  Packet[ID:46, 230.192.241.133->11.208.193.54, Size:35531B, Proto:HTTPS, Time:2025-12-29 15:40:15]
+  Packet[ID:78, 122.66.102.145->221.221.5.48, Size:32515B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:94, 69.151.240.122->39.25.108.230, Size:31722B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:117, 147.77.117.254->245.129.208.205, Size:31639B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:85, 193.198.206.68->99.215.230.107, Size:31171B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:35, 43.2.137.210->177.188.90.166, Size:31105B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:121, 28.216.86.174->166.67.246.156, Size:30360B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:148, 63.239.195.44->19.65.206.58, Size:30273B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:36, 234.178.168.61->86.241.198.50, Size:29995B, Proto:ICMP, Time:2025-12-29 15:40:15]
+  Packet[ID:6, 226.250.183.122->223.239.58.87, Size:29719B, Proto:ICMP, Time:2025-12-29 15:40:15]
+  Packet[ID:27, 1.23.94.188->146.48.119.163, Size:29669B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:131, 92.60.167.120->52.136.224.239, Size:28901B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:149, 157.106.64.29->55.108.108.188, Size:28038B, Proto:ICMP, Time:2025-12-29 15:40:36]
+  Packet[ID:118, 166.197.133.179->247.149.245.153, Size:27447B, Proto:FTP, Time:2025-12-29 15:40:36]
+  Packet[ID:86, 178.98.227.250->180.129.92.131, Size:27385B, Proto:FTP, Time:2025-12-29 15:40:36]
+  Packet[ID:30, 195.13.168.130->188.102.185.14, Size:25987B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:56, 222.25.13.239->96.152.131.48, Size:24506B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:71, 2.195.99.99->116.2.141.110, Size:23136B, Proto:UDP, Time:2025-12-29 15:40:36]
+  Packet[ID:143, 252.113.99.243->156.218.126.135, Size:22932B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:29, 63.142.49.130->174.190.248.245, Size:22670B, Proto:SSH, Time:2025-12-29 15:40:15]
+  Packet[ID:126, 80.60.69.99->49.49.163.68, Size:22508B, Proto:SSH, Time:2025-12-29 15:40:36]
+  Packet[ID:31, 12.225.139.157->225.31.255.106, Size:22301B, Proto:TCP, Time:2025-12-29 15:40:15]
+  Packet[ID:7, 196.165.17.127->155.43.172.180, Size:22086B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:4, 167.73.232.215->106.4.88.17, Size:22065B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:99, 124.107.47.198->165.225.95.93, Size:21754B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:39, 226.153.98.79->71.251.136.89, Size:21255B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:128, 208.138.247.179->49.70.153.193, Size:21253B, Proto:HTTP, Time:2025-12-29 15:40:36]
+  Packet[ID:50, 196.30.63.159->172.201.127.230, Size:20851B, Proto:HTTPS, Time:2025-12-29 15:40:15]
+  Packet[ID:42, 182.253.136.86->108.54.120.5, Size:20488B, Proto:DNS, Time:2025-12-29 15:40:15]
+  Packet[ID:70, 131.33.104.232->147.44.57.214, Size:20449B, Proto:TCP, Time:2025-12-29 15:40:36]
+  Packet[ID:26, 222.105.180.79->58.96.91.140, Size:20407B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:22, 213.25.203.207->77.233.138.163, Size:20109B, Proto:FTP, Time:2025-12-29 15:40:15]
+  Packet[ID:24, 146.43.93.72->87.114.65.226, Size:19383B, Proto:HTTP, Time:2025-12-29 15:40:15]
+  Packet[ID:151, 120.37.77.124->252.138.48.199, Size:19199B, Proto:DNS, Time:2025-12-29 15:40:36]
+  Packet[ID:41, 78.118.18.196->78.84.119.219, Size:18676B, Proto:SSH, Time:2025-12-29 15:40:15]
+--- End Query ---
+
+=================================================
+Network Traffic Log
+Started: 2025-12-31 01:10:51
+=================================================
+
+=== Statistics ===
+
+=== Network Traffic Statistics ===
+Total Packets: 70
+Total Bytes: 2050553 bytes
+Average Packet Size: 29293.61 bytes
+Largest Packet: 64980 bytes
+Smallest Packet: 3445 bytes
+
+Protocol Distribution:
+  TCP     : 6      (8.6%)
+  UDP     : 11     (15.7%)
+  ICMP    : 9      (12.9%)
+  HTTP    : 10     (14.3%)
+  HTTPS   : 8      (11.4%)
+  DNS     : 11     (15.7%)
+  FTP     : 6      (8.6%)
+  SSH     : 9      (12.9%)
+==================================
+==================
+
